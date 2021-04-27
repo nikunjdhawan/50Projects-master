@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.form{
+    background: linear-gradient(rgb(167, 227, 231), rgb(192, 236, 236), rgb(231, 102, 176));
+    height: 555px;
+    width:450px;
+    margin-left: 700px;
+    margin-top: 100px;
+    border-radius: 20px;
+   
+    
+}
+
+.text{
+    margin-left: 10px;
+    top: 30px;
+    margin-right: 10px;
+}
+
+.submit{
+    margin: 10px;
+}
