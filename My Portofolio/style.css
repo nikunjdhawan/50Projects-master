@@ -60,6 +60,23 @@ section{
     align-items: center;
 }
 
+
+.btn2{
+    position: relative;
+    background: #2196f3;
+    display: inline-block;
+    color: #fff;
+    margin-top: 20px;
+    padding: 10px 30px;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-weight: 500;
+    justify-content: center;
+    align-items: center;
+}
+
 header{
     position: fixed;
     top: 0;
